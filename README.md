@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imran-mridha&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imran-mridha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://app.daily.dev/mdev_Imran"><img src="https://api.daily.dev/devcards/1ab5ebbe1e764154aed31864e9368907.png?r=5jg" width="400" alt="Imran's Dev Card"/></a>
 
 
 
