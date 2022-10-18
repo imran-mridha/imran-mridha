@@ -1,9 +1,12 @@
 <div align="center">
  
- 
-<img width="100%" src="https://raw.githubusercontent.com/imran-mridha/imran-mridha/main/coding.jpg" alt="cover" />
+ <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/imran-mridha/imran-mridha/main/hi.gif" width="50px" height="50px">, I'm Atik</h1>  
+<img width="100%" height = "200px" src="https://raw.githubusercontent.com/imran-mridha/imran-mridha/main/coding.jpg" alt="cover" />
 </div>
-<span align="left"> <img src="https://komarev.com/ghpvc/?username=shakilahmedatik&label=Profile%20views&color=0e75b6&style=flat" alt="shakilahmedatik" /> </span> 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+Welcome+to+my+Github+page;I'm+Imran%2C+newbie+web+developer;Exploring+Programming" alt="Typing SVG" /></a>
+</p>
+<span align="left"> <img src="https://komarev.com/ghpvc/?username=imran-mridha&label=Profile%20views&color=0e75b6&style=flat" alt="imran-mridha" /> </span> 
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px">, I'm Atik</h1>  
 <h3 align="center">A passionate Software Engineer from 🇧🇩</h3>  
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakilahmedatik&" alt="shakilahmedatik" /></p>
