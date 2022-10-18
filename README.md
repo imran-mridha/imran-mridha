@@ -8,7 +8,7 @@
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=imran-mridha&label=Profile%20views&color=0e75b6&style=flat" alt="imran-mridha" /> </span>
 </div>
 <h4 align="center">A passionate Software Engineer from 🇧🇩</h4> 
-# 💫About Me :
+<h2>💫About Me :</h2>
 🌱 I’m currently learning : React JS
 
   👯 I’m looking to collaborate on my webpage
