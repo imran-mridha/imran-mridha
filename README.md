@@ -29,7 +29,7 @@
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/imran.mridha91/) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imranmridha91//) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/imran.mridha91/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/m_dev_imran) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imran.mridha91@gmail.com)
 
-<a href="https://app.daily.dev/mdev_Imran"><img src="https://api.daily.dev/devcards/1ab5ebbe1e764154aed31864e9368907.png?r=3y0" width="400" alt="Imran's Dev Card"/></a>
+<a href="https://app.daily.dev/mdev_Imran"><img src="https://api.daily.dev/devcards/1ab5ebbe1e764154aed31864e9368907.png?r=cvj" width="400" alt="Imran's Dev Card"/></a>
 <div>
 <h2>
 # Things I code with
