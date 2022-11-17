@@ -20,7 +20,7 @@
 💬 Ask me about for any help 
 </p>
 
-<p align=""><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=imran-mridha&" width="200" alt="imran-mridha" />
+<p align=""><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=imran-mridha&" alt="imran-mridha" />
 <a href="https://app.daily.dev/mdev_Imran"><img src="https://api.daily.dev/devcards/1ab5ebbe1e764154aed31864e9368907.png?r=cvj" width="200" alt="Imran's Dev Card"/></a>
 </p>
 
